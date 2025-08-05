@@ -4,7 +4,7 @@
 ---
 
 - 🌱 I’m currently learning **C**
-- 🚀 I'm interested in **low-level programming**, **web technologies**, and **clean code**
+- 🚀 I'm interested in **low-level programming**, **web technologies** and **clean code**
 - 📚 Always curious about how things work under the hood
 
 ---
