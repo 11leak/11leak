@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
-<h3 align="center">A passionate student at 42 Wolfsburg</h3>
+<h3 align="center">A passionate student at 42 student</h3>
 
 ---
 
